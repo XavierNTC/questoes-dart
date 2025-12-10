@@ -1,6 +1,6 @@
 # myapp
 
-Projeto Flutter de Daniel!
+Projeto Flutter de Gabriel!
 
 ## Getting Started
 
